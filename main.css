@@ -33,7 +33,7 @@ nav ul li a:hover {
     color: #4d5791;
 }
 
-.header {
+header {
     height: 350px;
     background-color: #b4c6f0;
     background-image: url(../personal-budget/bg.png);
