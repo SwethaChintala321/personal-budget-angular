@@ -37,6 +37,14 @@ const budget = {
     {
         title: 'Gadgets',
         budget: 100
+    },
+    {
+        title: 'Trash',
+        budget: 10
+    },
+    {
+        Title: 'Miscellaneous',
+        budget: 10
     }
 ]
 };
