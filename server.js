@@ -43,6 +43,10 @@ const budget = {
         budget: 10
     },
     {
+        title: 'Maid',
+        budget: 50
+    },
+    {
         Title: 'Miscellaneous',
         budget: 10
     }
