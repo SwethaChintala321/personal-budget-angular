@@ -43,18 +43,23 @@ const budget = {
         budget: 10
     },
     {
+        title: 'Washroom Products',
+        budget: 10
+    },
+    {
         Title: 'Miscellaneous',
         budget: 10
     }
 ]
 };
 
+
 app.get('/hello', (req, res) => {
     res.send('Hello World!');
 });
 
 app.get('/budget', (req, res) => {
-    res.json(budget);
+  res.json(budget);
 });
 
 app.listen(port, () => {
